@@ -24,6 +24,9 @@ The dashboard provides valuable insights into sales trends, enabling data-driven
 2. Open it in Microsoft Excel to explore the original dataset, working sheet, Pivot Tables, and the interactive dashboard.
 3. Use the slicers to filter data based on product categories or regions.
 
+## Logs
+You can find logs (contains what I did after started working on this project) in the logs folder in the file named *logs.md*.
+
 ## Conclusion
 This Bike Sales Dashboard serves as a comprehensive tool for analyzing bike sales data, enhancing business strategies through data visualization and analysis.
 
