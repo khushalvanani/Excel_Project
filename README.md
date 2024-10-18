@@ -14,7 +14,7 @@ This project features an interactive Bike Sales Dashboard created in Microsoft E
 - Data Analysis Techniques (PivotTables, Charts, Slicers)
 
 ## Screenshots
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ## Results
 The dashboard provides valuable insights into sales trends, enabling data-driven decision-making for marketing strategies and business operations.
